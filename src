@@ -22,7 +22,7 @@ const getEmployees = () => {
   `);
 };
 
-// Additional query functions for adding and updating records...
+
 
 module.exports = {
   getDepartments,
